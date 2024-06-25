@@ -23,7 +23,7 @@ To get started with Debezium Embed, follow these steps:
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 17 or higher
 - Maven or Gradle for dependency management
 
 ### Installation
@@ -34,5 +34,5 @@ Add the following dependency to your Maven `pom.xml`:
 <dependency>
     <groupId>io.debezium</groupId>
     <artifactId>debezium-embedded</artifactId>
-    <version>1.9.6.Final</version>
+    <version>2.6.0.Final</version>
 </dependency>
